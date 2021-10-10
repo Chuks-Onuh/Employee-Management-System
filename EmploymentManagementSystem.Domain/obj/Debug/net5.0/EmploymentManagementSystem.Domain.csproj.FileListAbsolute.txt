@@ -1,0 +1,15 @@
+C:\Code\HeirsAssesment\EmploymentManagementSystem.Domain\bin\Debug\net5.0\EmploymentManagementSystem.Domain.deps.json
+C:\Code\HeirsAssesment\EmploymentManagementSystem.Domain\bin\Debug\net5.0\EmploymentManagementSystem.Domain.runtimeconfig.json
+C:\Code\HeirsAssesment\EmploymentManagementSystem.Domain\bin\Debug\net5.0\EmploymentManagementSystem.Domain.runtimeconfig.dev.json
+C:\Code\HeirsAssesment\EmploymentManagementSystem.Domain\bin\Debug\net5.0\EmploymentManagementSystem.Domain.dll
+C:\Code\HeirsAssesment\EmploymentManagementSystem.Domain\bin\Debug\net5.0\ref\EmploymentManagementSystem.Domain.dll
+C:\Code\HeirsAssesment\EmploymentManagementSystem.Domain\bin\Debug\net5.0\EmploymentManagementSystem.Domain.pdb
+C:\Code\HeirsAssesment\EmploymentManagementSystem.Domain\obj\Debug\net5.0\EmploymentManagementSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\HeirsAssesment\EmploymentManagementSystem.Domain\obj\Debug\net5.0\EmploymentManagementSystem.Domain.AssemblyInfoInputs.cache
+C:\Code\HeirsAssesment\EmploymentManagementSystem.Domain\obj\Debug\net5.0\EmploymentManagementSystem.Domain.AssemblyInfo.cs
+C:\Code\HeirsAssesment\EmploymentManagementSystem.Domain\obj\Debug\net5.0\EmploymentManagementSystem.Domain.csproj.CoreCompileInputs.cache
+C:\Code\HeirsAssesment\EmploymentManagementSystem.Domain\obj\Debug\net5.0\EmploymentManagementSystem.Domain.dll
+C:\Code\HeirsAssesment\EmploymentManagementSystem.Domain\obj\Debug\net5.0\ref\EmploymentManagementSystem.Domain.dll
+C:\Code\HeirsAssesment\EmploymentManagementSystem.Domain\obj\Debug\net5.0\EmploymentManagementSystem.Domain.pdb
+C:\Code\HeirsAssesment\EmploymentManagementSystem.Domain\obj\Debug\net5.0\EmploymentManagementSystem.Domain.genruntimeconfig.cache
+C:\Code\HeirsAssesment\EmploymentManagementSystem.Domain\obj\Debug\net5.0\EmploymentManagementSystem.Domain.csproj.AssemblyReference.cache

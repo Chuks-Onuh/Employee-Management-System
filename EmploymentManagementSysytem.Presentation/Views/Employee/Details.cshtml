@@ -1,0 +1,61 @@
+﻿@model IEnumerable<Employee>
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1 class="text-center">Employee Details</h1>
+
+
+<div class="row">
+    <form asp-controller="Employee" asp-action="Search">
+        <div class="row">
+            <div class="form-group">
+                <input type="text" name="searchParam" placeholder="Eg. Name or 05/12/2020" class="form-control" />
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Search" class="btn btn-dark" />
+            </div>
+        </div>
+    </form>
+</div>
+<span class="text-info btn btn-outline-info">
+    <a asp-action="Create">Add Employee</a>
+</span>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.FirstName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LastName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.BirthDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Department)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.FirstName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LastName)
+            </td>
+            <td>
+               @item.BirthDate.ToString("MM/dd/yyyy")
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Department)
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
